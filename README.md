@@ -1,3 +1,10 @@
+## Expor adicionar os domínios
+ - Domínio principal
+    - Porta: 3000
+ - Domínio API
+    - Porta: 5555
+
+
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://github.com/calcom/cal.com">
